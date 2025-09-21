@@ -74,6 +74,8 @@ npm install && npm run dev
 
 ![WhatsApp Image 2025-09-21 at 20 15 26_b188fda3](https://github.com/user-attachments/assets/3fd66293-0949-40e2-a107-ce0fddbd5130)
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/99042689-efea-4d1f-9c1b-621bb028e90f" />
+
 ![WhatsApp Image 2025-09-21 at 20 15 42_6dc40792](https://github.com/user-attachments/assets/02269020-2750-40f1-8556-4fddb93c088c)
 
 ![WhatsApp Image 2025-09-21 at 20 15 56_1b0d7231](https://github.com/user-attachments/assets/be35ee26-5c93-448c-9d59-d3b0c19622e0)
